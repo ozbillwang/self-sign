@@ -2,7 +2,7 @@ from OpenSSL import crypto, SSL
 
 def main(emailAddress="emailAddress",
              commonName="commonName",
-             countryName="countryName",
+             countryName="au",
              localityName="localityName",
              stateOrProvinceName="stateOrProvinceName",
              organizationName="organizationName",

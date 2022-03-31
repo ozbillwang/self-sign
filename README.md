@@ -1,5 +1,7 @@
 # self sign certificate 
 
+NOTES: I found it will be more convenience to use [OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa) to create self-sign certificates directly
+
 ### generate self-sign cert
 adjust your details in top of code `self-sign.py`
 
